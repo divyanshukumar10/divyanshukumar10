@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, This is DIVYANSHU KUMAR 🤓<</h1>
+<h1 align="center">Hi there 👋, This is DIVYANSHU KUMAR 🤓 </> </h1>
 <h3 align="center">Final Year Student 👨‍💻 || Web Developer 🌍 || Freelancer 🤝 || Python 🇵🇾 || Deep Learning ❤️ Machine Learning 👨‍💻 || Competitive Programmer ✪ || Open Source Freak ©️ || BIRLA INSTITUTE OF TECHNOLOGY, MESRA 👨‍🎓 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshukumar10" alt="divyanshukumar10" /> </p>
 
