@@ -28,11 +28,64 @@
 
 
 
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukumar10&layout=compact&hide=html&theme=radical" alt="divyanshukumar10" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshukumar10&show_icons=true&theme=radical&count_private=true" alt="divyanshukumar10" />
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">    
 
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>   
+
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>     
+
+   <a href="#">
+    <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+   <a href="#">
+    <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/dev/services/codechef.svg" alt="codechef" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/services/google_cloud_platform.svg" alt="google_cloud_platform" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
+  </a>
+
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+  <a href="#">
+    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  
+  <a href="#">
+    <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
+  </a> 
+
+</p>
 
 
 ### 📫 How to reach me?
