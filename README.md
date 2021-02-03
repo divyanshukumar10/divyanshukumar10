@@ -27,13 +27,6 @@
 - ⚡ Fun fact **Most of the Programmers struggle with 2 things one is coffee and other is bugs**
 
 
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukumar10&layout=compact&hide=html&theme=radical" alt="divyanshukumar10" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshukumar10&show_icons=true&theme=radical&count_private=true" alt="divyanshukumar10" />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
 
@@ -86,6 +79,20 @@
   </a> 
 
 </p>
+
+### Some facts:
+<table>
+    <tr>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshukumar10&theme=calm" alt="divyanshukumar10" align="center"/>
+        </td>
+        <td rowspan=2>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshukumar10&theme=calm" align="center" alt="divyanshukumar10" align="center"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=divyanshukumar10&show_icons=true&locale=en&count_private=true&theme=calm&show_icons=true" alt="divyanshukumar10"/></td>
+    </tr>
+</table>
 
 
 ### 📫 How to reach me?
