@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **Most of the Programmers struggle with 2 things one is coffee and other is bugs**
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ksdkamesh99&show_icons=true&theme=radical&count_private=true" alt="ksdkamesh99" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
 
