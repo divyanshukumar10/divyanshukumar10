@@ -1,11 +1,11 @@
 <img width=1200 height=360 src="https://github.com/divyanshukumar10/divyanshukumar10/blob/main/svg/darkmode.png"/>
 
 <h1 align="center">Hi there 👋, This is DIVYANSHU KUMAR 🤓 </> </h1>
-<h3 align="center">Final Year Student 👨‍💻 || Web Developer 🌍 || Freelancer 🤝 || Python 🇵🇾 || Deep Learning ❤️ Machine Learning 👨‍💻 || Competitive Programmer ✪ || Open Source Freak ©️ || BIRLA INSTITUTE OF TECHNOLOGY, MESRA 👨‍🎓 </h3>
+<h3 align="center"> Web Developer 🌍 || Freelancer 🤝 || Python 🇵🇾 || Deep Learning ❤️ Machine Learning 👨‍💻 || Competitive Programmer ✪ || Open Source Freak ©️ || BIRLA INSTITUTE OF TECHNOLOGY, MESRA 👨‍🎓 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshukumar10" alt="divyanshukumar10" /> </p>
 
 
-<p align="center">This is DIVYANSHU KUMAR. I am currently pursing Bachelor of Engineering in CSE in BIT Mesra 2021 Batch. I am holding a position of Chairperson at IEEE Student chapter. I am a very passionate Machine Learning Practitioner and web developer.I love to compose code in Python, C++ and C. I am very interested in writing technical blogs in Medium & Other Publications. Most of my articles are about my challenges that I came across as a part of my learning. I hope you find it helpful. </p>
+<p align="center">DIVYANSHU KUMAR (Birla Institute of Technology, 2017-2021) <br>I am a very passionate Machine Learning Practitioner and web developer.I love to compose code in Python, C++ and C. I am very interested in writing technical blogs in Medium & Other Publications. Most of my articles are about my challenges that I came across as a part of my learning. I hope you find it helpful. </p>
 
 
 <br>
